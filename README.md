@@ -1,0 +1,2 @@
+# FCCArray
+JavaScript array variables
